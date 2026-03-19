@@ -98,6 +98,44 @@
         "blob/8e2fb3c41aecd248cea7f54aeb3073b596dbce17.nq.gz",
         "blob/509b766e7f6c6721ed27f32e357ad95d5757d5f2.nq.gz",
         "blob/a8001d4dbecfed3778b9b0d8c87a07679fdf596d.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/d6f035259f2d7ac0ec284fc1aa1211ac2cd7ca8b.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/d6f035259f2d7ac0ec284fc1aa1211ac2cd7ca8b.nq.gz",
+      "repolex": "aggregate/repolex/d6f035259f2d7ac0ec284fc1aa1211ac2cd7ca8b.nq.gz",
+      "dep": "dep/d6f035259f2d7ac0ec284fc1aa1211ac2cd7ca8b.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "claude_agent_sdk",
+          "githubOrg": "anthropics",
+          "githubRepo": "claude-agent-sdk-python"
+        },
+        {
+          "packageName": "anyio",
+          "githubOrg": "agronholm",
+          "githubRepo": "anyio"
+        },
+        {
+          "packageName": "pytest",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest"
+        },
+        {
+          "packageName": "twine",
+          "githubOrg": "pypa",
+          "githubRepo": "twine"
+        },
+        {
+          "packageName": "trio",
+          "githubOrg": "python-trio",
+          "githubRepo": "trio"
+        },
+        {
+          "packageName": "typing_extensions",
+          "githubOrg": "python",
+          "githubRepo": "typing_extensions"
+        }
       ]
     }
   ],
