@@ -2806,6 +2806,49 @@
         "blob/42aea656574dba4eaadbca1ab2c58cc773e1cdfb.nq.gz",
         "blob/aa9e432883e52637fbcf0f740086361bda808ced.nq.gz",
         "blob/a8001d4dbecfed3778b9b0d8c87a07679fdf596d.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/e2f8d814ea1bbd44804cae329c0dd5a90f357df6.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/e2f8d814ea1bbd44804cae329c0dd5a90f357df6.nq.gz",
+      "repolex": "aggregate/repolex/e2f8d814ea1bbd44804cae329c0dd5a90f357df6.nq.gz",
+      "dep": "dep/e2f8d814ea1bbd44804cae329c0dd5a90f357df6.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "claude-agent-sdk",
+          "githubOrg": "anthropics",
+          "githubRepo": "claude-agent-sdk-python"
+        },
+        {
+          "packageName": "anyio",
+          "githubOrg": "agronholm",
+          "githubRepo": "anyio"
+        },
+        {
+          "packageName": "pytest",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest"
+        },
+        {
+          "packageName": "mcp",
+          "githubOrg": "modelcontextprotocol",
+          "githubRepo": "python-sdk"
+        },
+        {
+          "packageName": "trio",
+          "githubOrg": "python-trio",
+          "githubRepo": "trio"
+        },
+        {
+          "packageName": "typing-extensions",
+          "githubOrg": "python",
+          "githubRepo": "typing_extensions"
+        },
+        {
+          "packageName": "twine",
+          "githubOrg": "pypa",
+          "githubRepo": "twine"
+        }
       ]
     }
   ],
