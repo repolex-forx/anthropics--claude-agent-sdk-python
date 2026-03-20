@@ -782,6 +782,39 @@
         "blob/9d92a81779a6263acb3d1a75d3ff0eadc1d8fcae.nq.gz",
         "blob/aa9e432883e52637fbcf0f740086361bda808ced.nq.gz",
         "blob/a8001d4dbecfed3778b9b0d8c87a07679fdf596d.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/6255850eb2c18dbb361880a10e540ca9bec6b83f.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/6255850eb2c18dbb361880a10e540ca9bec6b83f.nq.gz",
+      "repolex": "aggregate/repolex/6255850eb2c18dbb361880a10e540ca9bec6b83f.nq.gz",
+      "dep": "dep/6255850eb2c18dbb361880a10e540ca9bec6b83f.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "claude-code-sdk",
+          "githubOrg": "anthropics",
+          "githubRepo": "claude-code-sdk-python"
+        },
+        {
+          "packageName": "trio",
+          "githubOrg": "python-trio",
+          "githubRepo": "trio"
+        },
+        {
+          "packageName": "pytest",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest"
+        },
+        {
+          "packageName": "anyio",
+          "githubOrg": "agronholm",
+          "githubRepo": "anyio"
+        },
+        {
+          "packageName": "typing-extensions",
+          "githubOrg": "python",
+          "githubRepo": "typing_extensions"
+        }
       ]
     }
   ],
