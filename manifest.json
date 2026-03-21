@@ -9539,10 +9539,10 @@
         },
         {
           "packageName": "pytest-cov",
-          "packageVersion": "7.0.0",
+          "packageVersion": "7.1.0",
           "githubOrg": "pytest-dev",
           "githubRepo": "pytest-cov",
-          "githubCommit": "224d8964caad90074a8cf6dc8720b8f70f31629b"
+          "githubCommit": "66c8a526b1246b5eb8fb1bc218878131bc628622"
         },
         {
           "packageName": "mypy",
@@ -9566,18 +9566,18 @@
           "githubCommit": "f446e3e42a3c1da0628d97727a20dc75c3f3b9df"
         },
         {
-          "packageName": "trio",
-          "packageVersion": "0.9.0",
-          "githubOrg": "python-trio",
-          "githubRepo": "trio",
-          "githubCommit": "82c01f59ba0e8a960f7da9371ea7b5d40b1ea7d5"
-        },
-        {
           "packageName": "twine",
           "packageVersion": "6.2.0",
           "githubOrg": "pypa",
           "githubRepo": "twine",
           "githubCommit": "14ceb29585a54f679e415b351aece2acc19aa4b2"
+        },
+        {
+          "packageName": "trio",
+          "packageVersion": "0.9.0",
+          "githubOrg": "python-trio",
+          "githubRepo": "trio",
+          "githubCommit": "82c01f59ba0e8a960f7da9371ea7b5d40b1ea7d5"
         }
       ]
     },
