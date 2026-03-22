@@ -1,5 +1,11 @@
 {
   "org": "anthropics",
   "repo": "claude-agent-sdk-python",
-  "versions": []
+  "versions": [
+    {
+      "commit": "4d747482377cbe681c56adc39849357e8eee5e65",
+      "tag": "",
+      "parsed_at": ""
+    }
+  ]
 }
