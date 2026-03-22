@@ -10057,10 +10057,10 @@
         },
         {
           "packageName": "pytest-cov",
-          "packageVersion": "7.0.0",
+          "packageVersion": "7.1.0",
           "githubOrg": "pytest-dev",
           "githubRepo": "pytest-cov",
-          "githubCommit": "224d8964caad90074a8cf6dc8720b8f70f31629b"
+          "githubCommit": "66c8a526b1246b5eb8fb1bc218878131bc628622"
         },
         {
           "packageName": "mypy",
