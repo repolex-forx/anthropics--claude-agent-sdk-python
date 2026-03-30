@@ -32015,6 +32015,100 @@
         "blob/1346eba4b480761ae2ff5b9cf5f789d489e8dbde.nq.gz",
         "blob/92c9c6fbd113ca3e12897f337bc365c94e1bb56e.nq.gz",
         "blob/ea8045a4e1b2e92a7b3ac3fd25c379f3ff78d880.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/943332ca80831f6102303e5a6f9dd0b316205f54.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/943332ca80831f6102303e5a6f9dd0b316205f54.nq.gz",
+      "repolex": "aggregate/repolex/943332ca80831f6102303e5a6f9dd0b316205f54.nq.gz",
+      "dep": "dep/943332ca80831f6102303e5a6f9dd0b316205f54.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "anyio",
+          "ecosystem": "PYPI",
+          "version": "4.0.0",
+          "githubOrg": "agronholm",
+          "githubRepo": "anyio",
+          "githubCommit": "3f1eca1addcd782e2347350a6ddb2ad2b80c6354",
+          "githubTag": "4.0.0",
+          "githubUrl": "https://github.com/agronholm/anyio",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "typing-extensions",
+          "ecosystem": "PYPI",
+          "version": "4.0.0",
+          "githubOrg": "python",
+          "githubRepo": "typing_extensions",
+          "githubCommit": "cf75e420a23c28fd6fd963573a55450db7237ab7",
+          "githubTag": "4.0.0",
+          "githubUrl": "https://github.com/python/typing_extensions",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "mcp",
+          "ecosystem": "PYPI",
+          "version": "0.1.0",
+          "githubOrg": "modelcontextprotocol",
+          "githubRepo": "python-sdk",
+          "githubUrl": "https://github.com/modelcontextprotocol/python-sdk",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest",
+          "ecosystem": "PYPI",
+          "version": "7.0.0",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "3554b833c24f541af5c7272e47cfa52b89d8138d",
+          "githubTag": "7.0.0",
+          "githubUrl": "https://github.com/pytest-dev/pytest",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-asyncio",
+          "ecosystem": "PYPI",
+          "version": "0.20.0",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest-asyncio",
+          "githubCommit": "f30cc340c8ed7fdb9263cded5124610b87118c79",
+          "githubTag": "v0.20.0",
+          "githubUrl": "https://github.com/pytest-dev/pytest-asyncio",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-cov",
+          "ecosystem": "PYPI",
+          "version": "4.0.0",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest-cov",
+          "githubCommit": "28db055bebbf3ee016a2144c8b69dd7b80b48cc5",
+          "githubTag": "v4.0.0",
+          "githubUrl": "https://github.com/pytest-dev/pytest-cov",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "mypy",
+          "ecosystem": "PYPI",
+          "version": "1.0.0",
+          "githubOrg": "python",
+          "githubRepo": "mypy",
+          "githubCommit": "bc18017c19eb81bf5c11756f4e7dede4791e2823",
+          "githubTag": "v1.0.0",
+          "githubUrl": "https://github.com/python/mypy",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "ruff",
+          "ecosystem": "PYPI",
+          "version": "0.1.0",
+          "githubOrg": "astral-sh",
+          "githubRepo": "ruff",
+          "githubCommit": "172ac2c9a27040e4a60726f82cabed6166af094a",
+          "githubTag": "v0.1.0",
+          "githubUrl": "https://github.com/astral-sh/ruff",
+          "source": "build_file:pyproject.toml"
+        }
       ]
     }
   ],
